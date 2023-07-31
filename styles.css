@@ -1,0 +1,19 @@
+.bmwgif{
+  background-image: url("https://media.tenor.com/UIsLx0TYYqcAAAAC/bmw.gif");
+  /* Add any additional styles you want for the background */
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* You can also set the background position if needed */
+  background-position: center;
+  color: #f0f8ff;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content{
+  color: #2d2d2d;
+}
+
