@@ -6,7 +6,7 @@
   /* You can also set the background position if needed */
   background-position: center;
   color: #f0f8ff;
-  height: 60vh;
+  height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,4 +16,5 @@
 .content{
   color: #2d2d2d;
 }
+
 
